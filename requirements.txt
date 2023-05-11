@@ -8,5 +8,5 @@ einops
 unidecode
 scipy
 librosa
-numba==0.50.0
+numba
 ffmpeg
